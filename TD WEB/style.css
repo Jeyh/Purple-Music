@@ -4,14 +4,12 @@ h2 {
     /*border-left-width: 5px;
     border-right-width: 5px;*/
     border-color: purple;
-	text-color: purple;
 	font-family: Brush Script Std;
 	font-size : 2.5em;
 	text-align: Center	;
 	margin: 15px;
 	margin-bottom: 10px;
 	padding : 30px;
-
 }
 
 h3 {
@@ -32,22 +30,20 @@ h4 {
 	font-family : Calibri;
 	font-size : 1.2em;
 	text-align: Center;
-
 }
 
 h5 {
 	font-family : Calibri;
 	font-size : 1em;
 	text-align: Center;
-
 }
+
 body {
 	background-color: black;
 	/*background : url(./Guitare.jpg);*/
 	background-attachment : fixed;
     color: white;
 	font-size : 18px;
-	
 }
 
 p{
