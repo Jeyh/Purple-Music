@@ -1,0 +1,60 @@
+h2 {
+    border-style: solid;
+    border-width: 5px;
+    /*border-left-width: 5px;
+    border-right-width: 5px;*/
+    border-color: purple;
+	text-color: purple;
+	font-family: Brush Script Std;
+	font-size : 2.5em;
+	text-align: Center	;
+	margin: 15px;
+	margin-bottom: 10px;
+	padding : 30px;
+
+}
+
+h3 {
+    border-style: solid;
+	border-width: 0px;
+	border-bottom-width : 2px;
+	font-family : Calibri;
+	font-size : 1.5em;
+	text-align: Center;
+	line-height: 2;
+	margin-top: 10px;
+	margin-bottom: 70px;
+	padding-bottom : 30px;
+	padding-top : 20px;
+}
+
+h4 {
+	font-family : Calibri;
+	font-size : 1.2em;
+	text-align: Center;
+
+}
+
+h5 {
+	font-family : Calibri;
+	font-size : 1em;
+	text-align: Center;
+
+}
+body {
+	background-color: black;
+	/*background : url(./Guitare.jpg);*/
+	background-attachment : fixed;
+    color: white;
+	font-size : 18px;
+	
+}
+
+p{
+    letter-spacing: 0.25em;
+    word-spacing: 0.25em;
+    line-height: 1;
+	font-family : Calibri;
+	font-size : 1em;
+	text-align: Center;
+}
