@@ -54,3 +54,97 @@ p{
 	font-size : 1em;
 	text-align: Center;
 }
+
+/*img{
+	width:100px;
+	}*/
+	
+#BtnList
+{	
+	width : 150px;
+	height: 140px;
+	float:left;
+	margin-left:22%;
+	margin-top:0px;
+	
+
+	/*background-image : url("Listgp1.jpg");*/
+	
+}
+
+#BtnList :hover
+{
+	width : 160px;
+	height: 149px;
+	float:left;
+
+	/*background-image : url("Listgp2.jpg")*/
+	/*background-repeat:no-repeat*/
+}
+#BtnGenres
+{	
+	width : 150px;
+	height: 140px;
+	float:left;
+	margin:5%;
+	margin-top:0px;
+	/*background-image : url("genres1.jpg");*/
+	
+}
+
+#BtnGenres :hover
+{
+	width : 160px;
+	height: 149px;
+	float:left;
+
+	/*background-image : url("genres2.jpg");*/
+}
+#BtnPref
+{	
+	width : 150px;
+	height: 140px;
+	float:left;
+
+	margin-top:0px;
+	/*background-image : url("pref1.jpg");*/
+	
+}
+
+#BtnPref :hover
+{
+	width : 160px;
+	height: 149px;
+	float:left;
+
+	/*background-image : url("pref2.jpg");*/
+}
+#BtnDon
+{
+	
+	width : 150px;
+	height: 140px;
+	float:left;
+	margin:5%;
+	margin-right:20%;
+	margin-top:0px;
+	/*background-image : url("Don1.jpg");*/
+	
+}
+
+#BtnDon :hover
+{	
+	width : 160px;
+	height: 149px;
+	float:left;
+
+	/*background-image : url("Don2.jpg");*/
+}
+
+#entete
+{
+	
+	float: center;
+	width : 100%;
+	height : 300px;
+}
