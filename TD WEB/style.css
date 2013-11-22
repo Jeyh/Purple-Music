@@ -64,7 +64,7 @@ p{
 	width : 150px;
 	height: 140px;
 	float:left;
-	margin-left:22%;
+	margin-left:20%;
 	margin-top:0px;
 	
 
@@ -126,7 +126,7 @@ p{
 	height: 140px;
 	float:left;
 	margin:5%;
-	margin-right:20%;
+	margin-right:15%;
 	margin-top:0px;
 	/*background-image : url("Don1.jpg");*/
 	
@@ -147,4 +147,50 @@ p{
 	float: center;
 	width : 100%;
 	height : 300px;
+}
+
+#piedpage
+{
+	float: bottom;
+	font-family: Calibri;
+	font-size : 1em;
+	text-align: center;
+	margin-top: 10%;
+	
+	
+	
+	border-style: solid;
+	border-width: 0px;
+	border-top-width : 2px;
+	
+}
+
+#contenuliste
+{
+
+	font-family: Calibri;
+	font-size : 1em;
+	text-align: center;
+}
+
+#contenupref
+{
+
+	font-family: Calibri;
+	font-size : 1em;
+	text-align: center;
+}
+
+#NbAlbums
+{
+	
+	background: linear-gradient(to left, grey , black );
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
 }
