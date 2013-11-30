@@ -13,6 +13,7 @@
 		Geoffrey Clauzier <br>
 		Arnaud Moncel <br>
 		Alexandre Raberin <br>
+		Guillaume Pascal <br>
 		<br><br><br>
 		<input type="submit" value="Je suis quelqu'un de bien" align="center"></input>
 		</p>
