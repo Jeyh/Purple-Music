@@ -3,7 +3,6 @@
 ?>
 
 <body>	
-<br><br>
 	<h3><b>Liste des groupes</b></h3>
 	
 	<?php
@@ -24,7 +23,6 @@
 	?>
 	</div>
 	
-
-	<?php
-		include "footer.php";
-	?>
+<?php
+	include "footer.php";
+?>

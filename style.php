@@ -1,3 +1,7 @@
+<?php header("Content-type: text/css; charset=UTF-8");
+
+ ?>
+
 h2 {
     border-style: solid;
     border-width: 5px;
@@ -55,16 +59,23 @@ p{
 	text-align: Center;
 }
 
-/*img{
-	width:100px;
-	}*/
+a {
+	text-decoration: none;
+	color : white;
+}
+
+a:hover {
 	
-#BtnList
+	color :  grey;
+}
+
+#Btn
 {	
-	width : 150px;
-	height: 140px;
+	width : 140px;
+	height: 130px;
 	float:left;
-	margin-left:20%;
+	/*margin: 1%;*/
+	margin:2.5%;
 	margin-top:0px;
 	
 
@@ -72,74 +83,15 @@ p{
 	
 }
 
-#BtnList :hover
+#Btn :hover
 {
 	width : 160px;
 	height: 149px;
 	float:left;
-
-	/*background-image : url("Listgp2.jpg")*/
-	/*background-repeat:no-repeat*/
-}
-#BtnGenres
-{	
-	width : 150px;
-	height: 140px;
-	float:left;
-	margin:5%;
-	margin-top:0px;
-	/*background-image : url("genres1.jpg");*/
 	
 }
 
-#BtnGenres :hover
-{
-	width : 160px;
-	height: 149px;
-	float:left;
 
-	/*background-image : url("genres2.jpg");*/
-}
-#BtnPref
-{	
-	width : 150px;
-	height: 140px;
-	float:left;
-
-	margin-top:0px;
-	/*background-image : url("pref1.jpg");*/
-	
-}
-
-#BtnPref :hover
-{
-	width : 160px;
-	height: 149px;
-	float:left;
-
-	/*background-image : url("pref2.jpg");*/
-}
-#BtnDon
-{
-	
-	width : 150px;
-	height: 140px;
-	float:left;
-	margin:5%;
-	margin-right:15%;
-	margin-top:0px;
-	/*background-image : url("Don1.jpg");*/
-	
-}
-
-#BtnDon :hover
-{	
-	width : 160px;
-	height: 149px;
-	float:left;
-
-	/*background-image : url("Don2.jpg");*/
-}
 
 #entete
 {
@@ -179,6 +131,8 @@ p{
 	font-family: Calibri;
 	font-size : 1em;
 	text-align: center;
+	width: 100%;
+
 }
 
 #NbAlbums
@@ -194,3 +148,14 @@ p{
 	font-family : Calibri;
 	text-align:center ;
 }
+/*.notation
+{
+
+	include 'pref.php';
+
+font-family : Calibri;
+background-color : red;
+height : 30px;
+width : "echo 20*$note."px"; ";
+
+ /*background-image: url("./Img/Btn/etoiles.pgn")*/

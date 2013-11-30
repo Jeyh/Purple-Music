@@ -1,32 +1,10 @@
-<!DOCTYPE html>
-
-<html>
-
-
-<head>
-    <title>Purple Music</title>
-	<link rel="stylesheet" href="style.css">
-<div id="entete"> 
-
-<!-- Mise en forme du titre -->
-	<h2><b>Purple Music</b></h2>
-	
-<!-- Mise en forme des différents onglets -->	
-	<p>
-	
-	
-	
-	<div id="BtnList"><a href="liste.html" ><img src="Listgp1.jpg" align="left" ></a></div>
-	<div id="BtnGenres"><a href="genre.html" ><img src="genres1.jpg" align="center"></a></div>
-	<div id="BtnPref"><a href="pref.html" ><img src="pref1.jpg" align="center"></a></div>
-	<div id="BtnDon"><a href="don.html" ><img src="don1.jpg" align="center"></a></div>
-	
-</div>
-</head>
+<?php
+	include "Header.php";
+?>
 <body>	
 	<h3><b>Memphis May Fire</b></h3>
 	
-	<img src="./MMF.jpg" width="520" height="380" align="left" alt="BFMV"/>
+	<img src="./Img/Gp/MMF.jpg" width="520" height="380" align="left" alt="MMF"/>
 	
 	<h4>Infos groupe</h4>
 	<h5>
@@ -51,6 +29,6 @@
 	<object width="520" height="380"><param name="movie" value="http://www.youtube.com/v/rsDCsM62918"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/rsDCsM62918" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object> 
 	
 </p>
-</body>
-
-</html>
+<?php
+	include "footer.php";
+?>

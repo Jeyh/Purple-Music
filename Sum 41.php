@@ -5,7 +5,7 @@
 <br><br>
 	<h3><b>Sum 41</b></h3>
 	
-	<img src="./Sum_41.jpg" width="520" height="380" align="left" alt="Sum_41"/>
+	<img src="./Img/Gp/Sum_41.jpg" width="520" height="380" align="left" alt="Sum_41"/>
 	
 	<div id="NbAlbums"><h4> Infos groupe :</h4>
 		

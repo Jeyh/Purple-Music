@@ -5,7 +5,7 @@
 <br><br>
 	<h3><b>Bullet for my Valentine</b></h3>
 	
-	<img src="./BFMV.jpg" width="520" height="380" align="left" alt="BFMV"/>
+	<img src="./Img/Gp/BFMV.jpg" width="520" height="380" align="left" alt="BFMV"/>
 	
 	<h4>Infos groupe</h4>
 	<h5>
