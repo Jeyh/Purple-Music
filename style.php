@@ -43,8 +43,8 @@ h5 {
 }
 
 body {
-	background-color: black;
-	/*background : url(./Guitare.jpg);*/
+	/*background-color: black;*/
+	background : url(./Img/Btn/Purpulefond.jpg);
 	background-attachment : fixed;
     color: white;
 	font-size : 18px;

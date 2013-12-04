@@ -3,7 +3,7 @@
 ?>
 
 <body>	
-	<h3><b>Liste des groupes</b></h3>
+	<h3><b>Année de formation</b></h3>
 	
 	<?php
 	include 'BD.php';
@@ -12,10 +12,10 @@
 	
 	<div id="contenuliste">
 	<?php
-	while ($data = $ressigna-> fetch_assoc() )
+	while ($data = $rescrea-> fetch_assoc() )
 	{	
-		echo $data['Signature Article'];
-		echo " - ";
+		echo $data['AnneeCreation'];
+		echo ' - ';
 		echo '<a href="'.$data['NomPagePhp'].'">';
 		echo $data['Nom'];
 		echo '</a>';
@@ -24,9 +24,7 @@
 	
 	?>
 	</div>
-
-
-
+	
 <?php
 	include "footer.php";
 ?>

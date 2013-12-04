@@ -14,15 +14,16 @@
 	<div id="contenuliste">
 	<?php
 	
-	while
+
 	
-		while ($data = $resgenres-> fetch_assoc() )
+		while ($data = $resgenre-> fetch_assoc() )
 		{	
+			
 			echo '<a href="'.$data['NomPagePhp'].'">';
 			echo $data['Nom'];
 			echo '</a>';
 			echo '<br>';
-			echo $data[''];
+			
 			
 		}
 	
