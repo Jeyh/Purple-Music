@@ -14,8 +14,22 @@
 	<?php
 	while ($data = $ressigna-> fetch_assoc() )
 	{	
-		echo $data['Signature Article'];
-		echo " - ";
+		$SignTest = $data['Signature Article'];
+		if(!isset($Sign))
+		{
+			echo '<br>';
+			$Sign = $data['Signature Article'];  ?>
+			<h4> <?php echo $data['Signature Article'];?> </h4> <?php
+			echo '<br>';
+		}
+		else if ($Sign != $SignTest)
+		{
+			echo '<br>';
+			$Sign = $data['Signature Article'];  ?>
+			<h4> <?php echo $data['Signature Article'];?> </h4> <?php
+			echo '<br>';
+		}
+		
 		echo '<a href="'.$data['NomPagePhp'].'">';
 		echo $data['Nom'];
 		echo '</a>';

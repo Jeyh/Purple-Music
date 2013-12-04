@@ -18,21 +18,19 @@
 		if(!isset($image))
 		{
 			echo '<br>';
-			$image = "./Img/Btn/".$data['Nationnalite'].".png";
-			print '<img src="'.$image.'" alt= "drapeau" />';
-			echo ' - ';
-			echo $data['Nationnalite'];
 			echo '<br>';
+			$image = "./Img/Btn/".$data['Nationnalite'].".png";
+			print '<img src="'.$image.'" alt= "drapeau" />'; ?>
+			<h4> <?php echo $data['Nationnalite'];?> </h4> <?php
 			echo '<br>';
 		}
 		else if ($image != $imgTest)
 		{
 			echo '<br>';
-			$image = "./Img/Btn/".$data['Nationnalite'].".png";
-			print '<img src="'.$image.'" alt= "drapeau" />';
-			echo ' - ';
-			echo $data['Nationnalite'];
 			echo '<br>';
+			$image = "./Img/Btn/".$data['Nationnalite'].".png";
+			print '<img src="'.$image.'" alt= "drapeau" />'; ?>
+			<h4> <?php echo $data['Nationnalite'];?> </h4> <?php
 			echo '<br>';
 		}
 

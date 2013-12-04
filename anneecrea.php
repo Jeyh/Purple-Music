@@ -14,8 +14,24 @@
 	<?php
 	while ($data = $rescrea-> fetch_assoc() )
 	{	
-		echo $data['AnneeCreation'];
-		echo ' - ';
+		
+		$AnneeTest = $data['AnneeCreation'];
+		if(!isset($AnneeCreation))
+		{
+			echo '<br>';
+			$AnneeCreation = $data['AnneeCreation'];  ?>
+			<h4> <?php echo $data['AnneeCreation'];?> </h4> <?php
+			echo '<br>';
+		}
+		
+		else if ($AnneeCreation != $AnneeTest)
+		{
+			echo '<br>';
+			$AnneeCreation = $data['AnneeCreation'];  ?>
+			<h4> <?php echo $data['AnneeCreation'];?> </h4> <?php
+			echo '<br>';
+		}
+		
 		echo '<a href="'.$data['NomPagePhp'].'">';
 		echo $data['Nom'];
 		echo '</a>';
