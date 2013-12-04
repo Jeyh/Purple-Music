@@ -7,27 +7,48 @@
 	
 	<img src="./Img/Gp/Nickelback.jpg" width="520" height="380" align="left" alt="Nickelback"/>
 	
-	<h4>Infos groupe</h4>
-	<h5>
-	<ul>
-		<li>Création du groupe : </li>
-		<ul>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-			<li>Poule sauvage</li>
-		</ul>
-	</ul></h5>
-	<object width="520" height="380"><param name="movie" value="http://www.youtube.com/v/m5xxMsI3AJI"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5xxMsI3AJI" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object> 
+	<div id="NbAlbums"><h4> Infos groupe :</h4>
+		
+		Année de création : 1995
+		<br>Nationalité : Canadienne
+		<br>Nombres de membres : 4
+		<br>Nombres d'albums : 12
+		<br>Genres : Hard-Rock, Rock
+		<br>Instruments : Guitare, Basse, Batterie, Piano, Voix
+		<br>
+		
+	</div>
+		
+	<br>
+	
+	<div id="NbAlbums"><h4> Albums :</h4>
+		1996 : Curb
+		<br>2000 : The State
+		<br>2001 : Silver Side Up
+		<br>2003 : The Long Road
+		<br>2005 : All The Right Reasons
+		<br>2008 : Dark Horse
+		<br>2011 : Here And Now
+		
+	
+	</div>
+	
+	<br>
+	
+	<object align = "left" width="520" height="380"><param name="movie" value="http://www.youtube.com/v/m5xxMsI3AJI"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/m5xxMsI3AJI" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object> 
+	
+	<br>
+	
+	<div id="Notation8"><h4> Notation :  8/10 </h4>
+	
+	</div>
+	
+	<br>
+	
+	<div id="com"><h4> Commentaire :</h4>
+	
+	
+	</div>
 	
 </p>
 <?php

@@ -159,3 +159,138 @@ height : 30px;
 width : "echo 20*$note."px"; ";
 
  /*background-image: url("./Img/Btn/etoiles.pgn")*/
+ 
+  #Notation10
+{
+	
+	background: linear-gradient(to right, purple 100%, black 0%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}	
+	
+#Notation9
+{
+	
+	background: linear-gradient(to right, purple 90%, black 10%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation8
+{
+	
+	background: linear-gradient(to right, purple 80%, black 20%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation7
+{
+	
+	background: linear-gradient(to right, purple 70%, black 30%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation6
+{
+	
+	background: linear-gradient(to right, purple 60%, black 40%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation5
+{
+	
+	background: linear-gradient(to right, purple 50%, black 50%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation4
+{
+	
+	background: linear-gradient(to right, purple 40%, black 60%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation3
+{
+	
+	background: linear-gradient(to right, purple 30%, black 70%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+	
+#Notation2
+{
+	
+	background: linear-gradient(to right, purple 20%, black 80%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;	
+}	
