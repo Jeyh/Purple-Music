@@ -11,14 +11,24 @@
 		
 		Année de création : 1987
 		<br>Nationalité : Américaine
-		<br>Nombres de membres : 3
 		<br>Nombres d'albums : 12
 		<br>Genres : Punk, Pop-Punk, Rock
-		<br>Instruments : Guitare, Basse, Batterie, Piano, Voix
-		<br>
 		
 	</div>
+	
+	<br>
+	
+	<div id="NbAlbums"><h4> Infos membres :</h4>
 		
+		Nombres de membres : 3
+		<br>Billie Joe Armstrong : Chant, Guitares rythmique & soliste, Piano, Harmonica
+		<br>Mike Dirnt : Basse, Choeurs
+		<br>Tré Cool : Batterie, Choeurs
+		
+	</div>
+	
+	<object align = "left" width="520" height="380"><param name="movie" value="http://www.youtube.com/v/r5aQFRc4okE"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/r5aQFRc4okE" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object>
+	
 	<br>
 	
 	<div id="NbAlbums"><h4> Albums :</h4>
@@ -40,22 +50,17 @@
 	
 	<br>
 	
-	<object align = "left" width="520" height="380"><param name="movie" value="http://www.youtube.com/v/r5aQFRc4okE"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/r5aQFRc4okE" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object>
-
-	<br>
-	
 	<div id="Notation9"><h4> Notation :  9/10 </h4>
 	
 	</div>
 	
 	<br>
 	
-	<div id="com"><h4> Commentaire :</h4>
-	
-	
-	</div>
-	
-</p>
+	<h4> Commentaire :</h4>
+	<p>
+		
+	</p>	
+
 <?php
 	include "footer.php";
 ?>

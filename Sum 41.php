@@ -11,14 +11,25 @@
 		
 		Année de création : 1995
 		<br>Nationalité : Canadienne
-		<br>Nombres de membres : 4
 		<br>Nombres d'albums : 6
 		<br>Genres : Punk, Rock, Metal
-		<br>Instruments : Guitare, Basse, Batterie, Piano, Voix
-		<br>
 		
 	</div>
 		
+	<br>
+	
+		<div id="NbAlbums"><h4> Membres :</h4>
+		
+		Nombres de membres : 4
+		<br>Deryck Whibley : Chant, Guitare rythmique, Piano
+		<br>Jason McCaslin : Basse, Choeurs
+		<br>Tom Thacker : Guitare soliste, Choeur
+		<br>Steve Jocz : Batterie, Chant (Départ en 2013)
+		
+	</div>
+	
+	<object align = "left" width="520" height="380"><param name="movie" value="http://www.youtube.com/v/xp2FG5EwHpo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/xp2FG5EwHpo" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object>
+	
 	<br>
 	
 	<div id="NbAlbums"><h4> Albums :</h4>
@@ -31,10 +42,6 @@
 		
 	
 	</div>
-	
-	<br>
-	
-	<object align = "left" width="520" height="380"><param name="movie" value="http://www.youtube.com/v/xp2FG5EwHpo"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/xp2FG5EwHpo" type="application/x-shockwave-flash" wmode="transparent" width="520" height="380"></embed></object>
 
 	<br>
 	
@@ -44,12 +51,11 @@
 	
 	<br>
 	
-	<div id="com"><h4> Commentaire :</h4>
-	
-	
-	</div>
-	
-</p>
+	<h4> Commentaire :</h4>
+	<p>
+		
+	</p>	
+
 <?php
 	include "footer.php";
 ?>
