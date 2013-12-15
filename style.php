@@ -51,7 +51,7 @@ body {
 }
 
 p{
-    letter-spacing: 0.25em;
+    letter-spacing: 0.15em;
     word-spacing: 0.25em;
     line-height: 1;
 	font-family : Calibri;
@@ -193,13 +193,12 @@ width : "echo 20*$note."px"; ";
 #Notation8
 {
 	
-	background: linear-gradient(to right, purple 80%, black 20%);
+	background: linear-gradient(to right,#0C000E 0%, purple 78%, black 82%);
 	float: center;
 	border: 2px solid #fff;
 	padding: 20px;
 	padding-bottom:20px;
-	margin-left: 50%;
-	margin-right:10%;
+
     border-radius: 10px;
 	font-family : Calibri;
 	text-align:center ;
