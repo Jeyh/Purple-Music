@@ -42,6 +42,13 @@ h5 {
 	text-align: Center;
 }
 
+
+h6 {
+	font-family : Calibri;
+	font-size : 0.7em;
+	text-align: Center;
+}
+
 body {
 	/*background-color: black;*/
 	background : url(./Img/Btn/Purpulefond.jpg);

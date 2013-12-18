@@ -41,7 +41,7 @@
 	<div align="left" id="Notation8"><h4>8/10 </div>
 			
 	<h5><br><b>Mes titres favoris :  </b></h5>
-	<p> <s>(en réalité tout l'album kiss or kill, mais j'ai du faire un choix)</s><br><br> Road to destruction <br> Baby baby baby <br> From ashes to ashes <br> Slave <br> Tip of my tongue <br> Next Best thing </p>
+	<p> <s>(en réalité tout l'album kiss or kill, mais j'ai du faire un choix)</s><br><br> Road to destruction <br> Baby baby baby <br> From the ashes of sin <br> Slave <br> Tip of my tongue <br> Next Best thing </p>
 	
 	
 	

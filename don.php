@@ -17,7 +17,8 @@
 		Guillaume Pascal <br>
 		
 		<br><br><br>
-		<input type="submit" value="Je suis quelqu'un de bien" align="center"></input>
+		<input type="button" value="Je suis quelqu'un de bien" onclick="location.href='joke.php';"> </input>
+		
 		</p>
 
 <?php
