@@ -65,7 +65,8 @@
 			<h5><br><b>Mes titres favoris : </b></h5>
 			<p> Warmness on the Soul <br> Chapter Four <br> I won't see you tonight part 1 <br> Seize the day <br> MIA (missing in action) <br> Dear God <br> A little Piece of Heaven <br> Gunsliner <br>
 			So Far Away <br> Danger Line <br> Tonigh the world dies <br> Hail to the king <br> Crimson Day <br> Acid Rain </p>
-			
+			<br><br>
+			<div id="Romain">Romain </div>
 <?php
 	include "footer.php";
 ?>

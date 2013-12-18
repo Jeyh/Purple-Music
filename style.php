@@ -66,6 +66,8 @@ p{
 	text-align: Center;
 }
 
+
+
 a {
 	text-decoration: none;
 	color : white;
@@ -300,3 +302,11 @@ width : "echo 20*$note."px"; ";
 	font-family : Calibri;
 	text-align:center ;	
 }	
+
+#Romain
+{
+	font-family: Brush Script Std;
+	font-size : 2em;
+	text-align: Right;
+	margin-right : 10%;
+}
