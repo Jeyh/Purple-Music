@@ -60,7 +60,7 @@
 			<h5><br><b>Note : </b></h5>
 			<p>J'attribue la note de 8/10 pour la qualité globale de leurs albums, la diversité de leur style, mais en contrepartie, une certaine inégalité dans les chansons réduit un peu la note.</p>
 			
-			<div align="left" id="Notation8"><h4>8/10 </div>
+			<div align="left" id="Notation08"><h4>8/10 </div>
 			
 			<h5><br><b>Mes titres favoris : </b></h5>
 			<p> Warmness on the Soul <br> Chapter Four <br> I won't see you tonight part 1 <br> Seize the day <br> MIA (missing in action) <br> Dear God <br> A little Piece of Heaven <br> Gunsliner <br>

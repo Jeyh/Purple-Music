@@ -199,7 +199,7 @@ width : "echo 20*$note."px"; ";
 	text-align:center ;
 }
 
-#Notation8
+#Notation08
 {
 	
 	background: linear-gradient(to right,#0C000E 0%, purple 78%, black 82%);
@@ -208,6 +208,21 @@ width : "echo 20*$note."px"; ";
 	padding: 20px;
 	padding-bottom:20px;
 
+    border-radius: 10px;
+	font-family : Calibri;
+	text-align:center ;
+}
+
+#Notation8
+{
+	
+	background: linear-gradient(to right, purple 80%, black 20%);
+	float: center;
+	border: 2px solid #fff;
+	padding: 20px;
+	padding-bottom:20px;
+	margin-left: 50%;
+	margin-right:10%;
     border-radius: 10px;
 	font-family : Calibri;
 	text-align:center ;
