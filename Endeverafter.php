@@ -38,7 +38,7 @@
 	<h5><br><b>Note : </b></h5>
 	<p>J'attribue la note de 8/10 pour la qualité de leur musique, de la voix, et de leur forte emprunte musicale, mais malheureusement, leur inactivité depuis 2007 pénalise la note, et l'on a plus de nouvelles. </p>
 	
-	<div align="left" id="Notation8"><h4>8/10 </div>
+	<div align="left" id="Notation08"><h4>8/10 </div>
 			
 	<h5><br><b>Mes titres favoris :  </b></h5>
 	<p> <s>(en réalité tout l'album kiss or kill, mais j'ai du faire un choix)</s><br><br> Road to destruction <br> Baby baby baby <br> From the ashes of sin <br> Slave <br> Tip of my tongue <br> Next Best thing </p>
