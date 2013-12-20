@@ -52,7 +52,9 @@
 	
 	<h4> Commentaire :</h4>
 	<p>
-		
+		Même le nom de ce groupe ne vous dit sans doute rien, il n'en ait pas moins interessant.
+		Leur musique rock parvient à nous émouvoir plus d'une fois.
+		Je vous conseille vraiment leur live à Wembley si vous voulez commencer, ou continuer, à écouter ce groupe qui, dans ce concert, atteint une haute performance artistique.
 	</p>	
 
 <?php
