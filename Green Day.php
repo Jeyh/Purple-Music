@@ -58,7 +58,10 @@
 	
 	<h4> Commentaire :</h4>
 	<p>
-		
+		Es-ce bien utile de présenter un groupe tel que Green Day? 
+		<br>23 ans de carrière et toujours un son nouveau et jeune à chaque album.
+		"American Idiot" et "Holiday", les deux titres les plus connus du groupe, se laissent volontier réécouter en boucle.
+		<br>Un excellent groupe punk que je conseille vivement au plus purple d'entre vous ;)
 	</p>	
 
 <?php

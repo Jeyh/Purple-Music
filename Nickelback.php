@@ -57,7 +57,11 @@
 	
 	<h4> Commentaire :</h4>
 	<p>
-		
+		Mes amis, en vérité je vous le dis : Chad Kroeger est la plus grande performance vocale que j'ai pu écouter de ma vie, rien de moins que ça.
+		Son empreinte vocale est, pour moi, au dessus de toutes les autres car elle a cette force inouïe qui arrive à nous amener dans son univers et nous fait presque oublier le reste du groupe.
+		<br>Beaucoup d'entre vous diront que les chansons semblent les mêmes et que le groupe se répète au fur et à mesure des années.
+		Et bien ces gens-là je ne peux pas totalement leur en vouloir. Meme si chaque chanson est différente et est plus ou moins impressionante,
+		l'atmosphère et le style de chaque album se ressemble malheureusement assez fortement.
 	</p>	
 
 <?php
