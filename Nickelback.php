@@ -64,6 +64,9 @@
 		l'atmosphère et le style de chaque album se ressemble malheureusement assez fortement.
 	</p>	
 
+	<br><br>
+	<div id="Romain">Thibault </div>	
+	
 <?php
 	include "footer.php";
 ?>

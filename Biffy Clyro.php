@@ -57,6 +57,10 @@
 		Je vous conseille vraiment leur live à Wembley si vous voulez commencer, ou continuer, à écouter ce groupe qui, dans ce concert, atteint une haute performance artistique.
 	</p>	
 
+	
+	<br><br>
+	<div id="Romain">Thibault </div>	
+	
 <?php
 	include "footer.php";
 ?>

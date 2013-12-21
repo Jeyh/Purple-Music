@@ -61,6 +61,9 @@
 		<br>Sum 41 étant mon groupe préféré je n'ai évidemment pas pu résister à l'envie de leur mettre 10/10, mais ne me regardez pas comme ça, vous auriez fait pareil ;)
 		
 	</p>	
+	
+	<br><br>
+	<div id="Romain">Thibault </div>	
 
 <?php
 	include "footer.php";
