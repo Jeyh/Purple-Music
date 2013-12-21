@@ -53,6 +53,12 @@
 	
 	<h4> Commentaire :</h4>
 	<p>
+		Malgré un premier album très contrasté, combinant aussi bien des chansons originales et rythmiques telles que "Makes No Difference" et d'autres beaucoup plus basiques et pauvres,
+		Sum 41 a su, et ce à chaque nouvel album, gravir les échelons pour finalement atteindre une place forte dans le domaine de la musique punk.
+		Si leur plus gros succès : "In Too Deep", "Fat Lip" ou encore "The Hell Song" sont présents dans les albums de 2001 et de 2002,
+		je ne peux toutefois pas m'empecher de penser que l'apogée de leur composition provient de leur dernier album "Screaming Bloody Murder".
+		Celui-ci étant beaucoup plus sombre et beaucoup plus varié que les autres, procurant un réel plaisir auditif. 
+		<br>Sum 41 étant mon groupe préféré je n'ai évidemment pas pu résister à l'envie de leur mettre 10/10, mais ne me regardais pas comme ça, vous auriez fait pareil ;)
 		
 	</p>	
 
