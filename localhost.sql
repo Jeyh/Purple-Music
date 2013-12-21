@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Client: localhost
--- Généré le: Sam 30 Novembre 2013 à 10:25
+-- Généré le: Sam 21 Décembre 2013 à 19:31
 -- Version du serveur: 5.6.12-log
 -- Version de PHP: 5.4.12
 
@@ -141,11 +141,11 @@ INSERT INTO `groupes` (`Nom`, `ID`, `NbMembres`, `Instruments`, `Nationnalite`, 
 ('Nickelback', 5, 4, '', 'Canadienne', 1995, 7, 8, 'Thibault B.', 'Nickelback.php', 1),
 ('Mayday Parade', 6, 5, '', 'Americaine', 2005, 6, 9, 'Romain S.', 'Mayday Parade.php', 1),
 ('Memphis may fire', 7, 5, '', 'Americaine', 2004, 3, 9, 'Romain S.', 'MMF.php', 1),
-('Green Day', 8, 3, '', 'Americaine', 1987, 11, 9, 'Thibault B.', 'Green Day.php', 0),
+('Green Day', 8, 3, '', 'Americaine', 1987, 11, 9, 'Thibault B.', 'Green Day.php', 1),
 ('Ghost Town', 9, 4, '', 'Americaine', 2012, 2, 9, 'Romain S.', 'Ghost Town.php', 0),
 ('Hoobastank', 10, 4, '', 'Americaine', 1994, 9, 8, 'Thibault B.', 'Hoobastank.php', 0),
 ('Pierce the veil', 11, 4, '', 'Americaine', 2007, 3, 10, 'Romain S.', 'PTV.php', 0),
-('Endeverafter', 12, 4, '', 'Americaine', 0, 0, 8, 'Romain S.', 'Endeverafter.php', 0),
+('Endeverafter', 12, 4, '', 'Americaine', 2004, 2, 8, 'Romain S.', 'Endeverafter.php', 1),
 ('Sleeping with Sirens', 13, 5, '', 'Americaine', 0, 0, 8, 'Romain S.', 'SWS.php', 0);
 
 -- --------------------------------------------------------

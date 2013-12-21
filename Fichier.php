@@ -13,8 +13,8 @@
 
 
 <!-- Site references -->	
-	<p><a href="http://ent.u-clermont1.fr/render.userLayoutRootNode.uP;jsessionid=51AB41B81114131B17200911079BED52.ent02">Ce n'est pas youtube mais tu dois cliquer</a></p>
-	<p><a href="http://www.htmldog.com/guides/">Voici quelque chose de pratique</a></p>
+	<p><a href="http://ent.u-clermont1.fr/render.userLayoutRootNode.uP;jsessionid=51AB41B81114131B17200911079BED52.ent02">Un site fortement pratique</a></p>
+	
 </div>
 
 <?php
