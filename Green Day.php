@@ -64,6 +64,9 @@
 		<br>Un excellent groupe punk que je conseille vivement au plus purple d'entre vous ;)
 	</p>	
 
+	<br><br>
+	<div id="Romain">Thibault </div>	
+	
 <?php
 	include "footer.php";
 ?>
