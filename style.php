@@ -215,7 +215,7 @@ width : "echo 20*$note."px"; ";
 #Notation8
 {
 	
-	background: linear-gradient(to right, purple 80%, black 20%);
+	background: linear-gradient(to right,#0C000E 0%, purple 78%, black 82%);
 	float: center;
 	border: 2px solid #fff;
 	padding: 20px;
